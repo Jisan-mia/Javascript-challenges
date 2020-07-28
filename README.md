@@ -1,2 +1,2 @@
 # Javascript-challenges
-I will be pushing  javascript challenges on this project. 
+I will be pushing  javascript challenges in this project. 
